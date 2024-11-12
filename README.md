@@ -33,5 +33,5 @@ This is a full-stack Express 5 project that uses TypeScript, JWT authentication,
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/express5-ts-jwt-mongodb-swagger-docker.git
-cd express5-ts-jwt-mongodb-swagger-docker
+git clone [https://github.com/your-username/express5-ts-jwt-mongodb-swagger-docker.git](https://github.com/convertml-anup/convertml_express.git)
+ 
